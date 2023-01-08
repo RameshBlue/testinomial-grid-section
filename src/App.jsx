@@ -8,7 +8,7 @@ import kiraImage from './Assets/image-kira.jpg';
 
 function App() {
   return (
-    <div className=' grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-4  gap-6 p-20 min-h-screen bg-slate-200'>
+    <div className=' grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-4  gap-6 xs:p-4 md:p-20 min-h-screen bg-slate-200'>
 
       <div className='bg-purple-600 p-10 rounded-xl shadow-xl xl:col-span-2'>
         <div className='flex'>
